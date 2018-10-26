@@ -1,2 +1,2 @@
-# csci3055u-2018-workshops
+# Programming Languages 2018 Workshops
 UOIT Programming Languages course tutorial sessions.
